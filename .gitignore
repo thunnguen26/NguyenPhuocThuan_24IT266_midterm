@@ -1,0 +1,14 @@
+# Build products
+/build/
+*.o
+*.d
+
+# Executable target
+/ls
+/ls.exe
+
+# Editor and OS junk
+*.swp
+*.tmp
+*~
+.DS_Store
