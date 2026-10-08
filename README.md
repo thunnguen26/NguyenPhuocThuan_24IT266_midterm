@@ -2,7 +2,7 @@
 
 > **Author:** Nguyễn Phước Thuần
 > **Student ID:** 24IT266
-> **Course:** UNIX System Programming / Operating Systems
+> **Course:** Lập Trình Hệ Thống
 > **Repository:** https://github.com/thunnguen26/NguyenPhuocThuan_24IT266_midterm
 > **Submission Date:** 2026-10-08
 
